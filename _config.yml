@@ -22,8 +22,8 @@ title: Alec Whyte
 email: alecbwhyte@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Alec Whyte. I'm an aspiring software developer. I studied Computer
-  Science at the University of California, Irvine. I love coding, gaming, and 
-  crafts. This is my personal portfolio where I share my projects.
+  Science at the University of California, Irvine. I love coding, gaming, music, and 
+  crafts. This is my personal portfolio site.
   Feel free to reach out to me via email or connect with me on LinkedIn!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
