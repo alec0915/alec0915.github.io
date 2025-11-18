@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  alec0915
 linkedin_username: alec-whyte
+email_address: alecbwhyte@gmail.com
 
 # Build settings
 theme: minima
