@@ -4,7 +4,7 @@ title:  "Whyte Weather"
 date:   2025-11-04 
 categories: personal projects
 ---
-<h3><a href="https://alec0915.pythonanywhere.com/">Check out my weather app here! </a></h3>
+<h3><a href="https://alec0915.pythonanywhere.com/" target="_blank">Check out my weather app here! </a></h3>
 This was my first proper project I did by myself outside of school. I usually struggle to find something I find interesting to work on, but this got me engaged to the point where I wanted to finish it. I worked on it off and on in my free time between work and d&d. I'm still shocked that it both works and is just live on the internet now.
 
 I had to learn how Flask worked to get this from a python script making API calls to a proper backend that feeds data to HTML files. I really like how Flask can not only create dynamic content on pages, but it can also create dynamic URLs for pages. It's a cool idea to have template HTML files that act as a base structure that I fill with data depending on user input.
