@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Custom 3D Printed Dice Tray"
+date:   2025-12-25 
+categories: personal projects
+---
+
+
+
+
+For Christmas, my friend wanted a new dice tray for ttrpgs. Since I have made one for myself out of wooden paint sticks that I upholstered with felt and vinyl a few years back, I decided to make her one instead of buying one, but this time I would be using my 3D printer to make the body.
+
+I started by designing the tray in TinkerCAD. It started as a simple octagon with some quarter-inch thick raised walls. Her old dice tray had an inner wall that separated the dice from the rolling area, so I decided I wanted to add that in to keep things feeling seamless during the transition to this new one. I ended up with an octagon with an outer wall and an inner wall, but the design was too big for my print bed. I quartered it and made dovetail joints to combine them together after the print. 
+
+<img src="/pictures/DiceTray0.png">
+
+I joined the quadrants via the dovetails, and they lined up perfectly. I poured polyurethane into the tray to seep through the cracks and lock the pieces in place. It became very sturdy, and I really like that it seeped properly throught to the bottom, fully sealing it together.
+
+<img src="/pictures/DiceTray1.jpg" alt="Description of the image">
+<img src="/pictures/DiceTray2.jpg" alt="Description of the image">
+
+I purchased some purple felt and black vinyl to cover up all the plastic and make it look better. I traced the octagons onto the felt and cut them out, gluing them down and trimming any excess. For the vinyl, I traced the perimeter of the tray onto the vinyl, then I measured the height of the outside of the wall, the width of the outside wall, and the height of the inside of the wall and added them all together. I used this distance to measure out the outside of my cuts that would fold over the walls to be glued down.
+
+
+<img src="/pictures/DiceTray3.jpg" alt="Description of the image">
+
+For the inner walls, I took very similar measurements to the outside walls, but instead cut out each rectangle and glued them over the whole wall.
+
+
+<img src="/pictures/DiceTray4.jpg" alt="Description of the image">
+
+For the lid, I just extended the original octagon's width by a quarter inch, so it would fit around the tray. I fitted the inside with the purple felt, then wrapped the vinyl over the walls to fully cover it.
+
+<img src="/pictures/DiceTray5.jpg" alt="Description of the image">
+<img src="/pictures/DiceTray6.jpg" alt="Description of the image">
+
+The lid fit a bit too tightly for my liking, but I was running out of time to get it done. I left it as is because over time the material will wear and it'll get looser. I'm pretty happy with how it turned out. She didn't realize I had made it myself until I had said as much, so that was a big win for my confidence in my craftsmanship.
