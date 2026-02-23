@@ -26,7 +26,7 @@ With the body together, I began the wiring process. I hadn't touched wiring or s
 </video>
 
 
-Next up was the neck. This was trickier because the wires that connect to the usb encoder aren't very long on their own, so I needed some wires that would reach and use them to bridge the gap between the usb encoder and the key switches. I cut up an old ethernet cable and used the wires inside there. It netted me 4 pairs of wires that I could use, and I had more than enough to cut one down to get the 5th button wired properly. 
+<p>Next up was the neck. This was trickier because the wires that connect to the usb encoder aren't very long on their own, so I needed some wires that would reach and use them to bridge the gap between the usb encoder and the key switches. I cut up an old ethernet cable and used the wires inside there. It netted me 4 pairs of wires that I could use, and I had more than enough to cut one down to get the 5th button wired properly. </p>
 
 <img src="/pictures/guitar5.jpg">
 
