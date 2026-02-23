@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-22T20:50:09-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alec Whyte</title><subtitle>My name is Alec Whyte. I&apos;m an aspiring software developer. I studied Computer Science at the University of California, Irvine. I love coding, gaming, music, and  crafts. This is my personal portfolio site. Feel free to reach out to me via email or connect with me on LinkedIn!</subtitle><entry><title type="html">Custom 3D Printed Dice Tray</title><link href="http://localhost:4000/personal/projects/2025/12/25/dice-tray.html" rel="alternate" type="text/html" title="Custom 3D Printed Dice Tray" /><published>2025-12-25T00:00:00-08:00</published><updated>2025-12-25T00:00:00-08:00</updated><id>http://localhost:4000/personal/projects/2025/12/25/dice-tray</id><content type="html" xml:base="http://localhost:4000/personal/projects/2025/12/25/dice-tray.html"><![CDATA[<p>For Christmas, my friend wanted a new dice tray for ttrpgs. Since I have made one for myself out of wooden paint sticks that I upholstered with felt and vinyl a few years back, I decided to make her one instead of buying one, but this time I would be using my 3D printer to make the body.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-22T21:29:42-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alec Whyte</title><subtitle>My name is Alec Whyte. I&apos;m an aspiring software developer. I studied Computer Science at the University of California, Irvine. I love coding, gaming, music, and  crafts. This is my personal portfolio site. Feel free to reach out to me via email or connect with me on LinkedIn!</subtitle><entry><title type="html">3D Printed Guitar Hero Controller</title><link href="http://localhost:4000/personal/projects/2026/02/22/poly-guitar.html" rel="alternate" type="text/html" title="3D Printed Guitar Hero Controller" /><published>2026-02-22T00:00:00-08:00</published><updated>2026-02-22T00:00:00-08:00</updated><id>http://localhost:4000/personal/projects/2026/02/22/poly-guitar</id><content type="html" xml:base="http://localhost:4000/personal/projects/2026/02/22/poly-guitar.html"><![CDATA[<p>Credit to Josh Designs (@JoshDesigns_295335 on Printables) for the stls and build guide!</p>
+<p><a href="https://www.printables.com/model/227781-poly-clone-hero-controller" target="_blank">Link to the project on Printables </a><p>
+
+
+Ever since I broke my old Xbox360 Guitar Hero controller, I've been lacking some Guitar Hero in my life. Online prices for these controllers is way too high for my liking, so instead of buying one, I decided to make one instead. It couldn't be that hard to do, and truthfully it wasn't. I purchased some key switches, a generic usb encoder, and some nuts and bolts and got to printing.
+
+<img src="/pictures/guitar0.jpg" />
+
+The body came in two pieces and screwed together pretty seamlessly.
+
+<img src="/pictures/guitar1.jpg" />
+<img src="/pictures/guitar2.jpg" />
+
+With the body together, I began the wiring process. I hadn't touched wiring or soldering since my embedded software class, so this was fun to get back into. All the buttons were just key switches I soldered to the usb encoder connector wires. I used both brown and white Kailh switches for every button on the controller. It took a bit to get any solid soldering done because I had to basically relearn it. Not every joint is perfect, but at least they all work properly. 
+<img src="/pictures/keys.jpg" />
+<img src="/pictures/guitar3.jpg" />
+
+
+Next up was the neck. This was trickier because the wires that connect to the usb encoder aren't very long on their own, so I needed some wires that would reach and use them to bridge the gap between the usb encoder and the key switches. I cut up an old ethernet cable and used the wires inside there. It netted me 4 pairs of wires that I could use, and I had more than enough to cut one down to get the 5th button wired properly. 
+
+<img src="/pictures/guitar5.jpg" />
+
+I fed the cables through the neck and bolted everything together. The fret buttons sit nicely above the switches in the neck, and the strum bar sits between two white switches. It ended up looking pretty sleek in black.
+
+<img src="/pictures/guitar6.jpg" />
+
+It's not a perfect project though. The fret buttons stick sometimes. I fixed the majority of the issue by sanding down the edges, but there are times where the blue or the orange will get stuck and I have to press them again to unstick them; it's annoying, but it's playable. I can continue to sand them down if I wanted to, so it's not a big deal. The real issue is the strum bar. Once it is played, it will immediatly stay in that position. If I strum down, it stays down. If I strum up, it stays up. I have to manually reset it to the middle if I want it to go back to neutral. This is a bigger problem because it throws me off when I'm playing, and I'm not certain how to fix it. I feel like it could be a friction problem keeping it from returning because it's just plastic pressing against plastic to keep the strum bar in place. I want to find a solution, but for now it's a playable guitar controller whenever I get the feeling I wanna play some Clone Hero on my computer.
+</p></p>]]></content><author><name></name></author><category term="personal" /><category term="projects" /><summary type="html"><![CDATA[Credit to Josh Designs (@JoshDesigns_295335 on Printables) for the stls and build guide! Link to the project on Printables]]></summary></entry><entry><title type="html">Custom 3D Printed Dice Tray</title><link href="http://localhost:4000/personal/projects/2025/12/25/dice-tray.html" rel="alternate" type="text/html" title="Custom 3D Printed Dice Tray" /><published>2025-12-25T00:00:00-08:00</published><updated>2025-12-25T00:00:00-08:00</updated><id>http://localhost:4000/personal/projects/2025/12/25/dice-tray</id><content type="html" xml:base="http://localhost:4000/personal/projects/2025/12/25/dice-tray.html"><![CDATA[<p>For Christmas, my friend wanted a new dice tray for ttrpgs. Since I have made one for myself out of wooden paint sticks that I upholstered with felt and vinyl a few years back, I decided to make her one instead of buying one, but this time I would be using my 3D printer to make the body.</p>
 
 <p>I started by designing the tray in TinkerCAD. It started as a simple octagon with some quarter-inch thick raised walls. Her old dice tray had an inner wall that separated the dice from the rolling area, so I decided I wanted to add that in to keep things feeling seamless during the transition to this new one. I ended up with an octagon with an outer wall and an inner wall, but the design was too big for my print bed. I quartered it and made dovetail joints to combine them together after the print.</p>
 
@@ -6,23 +33,23 @@
 
 <p>I joined the quadrants via the dovetails, and they lined up perfectly. I poured polyurethane into the tray to seep through the cracks and lock the pieces in place. It became very sturdy, and I really like that it seeped properly throught to the bottom, fully sealing it together.</p>
 
-<p><img src="/pictures/DiceTray1.jpg" alt="Description of the image" />
-<img src="/pictures/DiceTray2.jpg" alt="Description of the image" /></p>
+<p><img src="/pictures/DiceTray1.jpg" />
+<img src="/pictures/DiceTray2.jpg" /></p>
 
 <p>I purchased some purple felt and black vinyl to cover up all the plastic and make it look better. I traced the octagons onto the felt and cut them out, gluing them down and trimming any excess. For the vinyl, I traced the perimeter of the tray onto the vinyl, then I measured the height of the outside of the wall, the width of the outside wall, and the height of the inside of the wall and added them all together. I used this distance to measure out the outside of my cuts that would fold over the walls to be glued down.</p>
 
-<p><img src="/pictures/DiceTray3.jpg" alt="Description of the image" /></p>
+<p><img src="/pictures/DiceTray3.jpg" /></p>
 
 <p>For the inner walls, I took very similar measurements to the outside walls, but instead cut out each rectangle and glued them over the whole wall.</p>
 
-<p><img src="/pictures/DiceTray4.jpg" alt="Description of the image" /></p>
+<p><img src="/pictures/DiceTray4.jpg" /></p>
 
 <p>For the lid, I just extended the original octagon’s width by a quarter inch, so it would fit around the tray. I fitted the inside with the purple felt, then wrapped the vinyl over the walls to fully cover it.</p>
 
-<p><img src="/pictures/DiceTray5.jpg" alt="Description of the image" />
-<img src="/pictures/DiceTray6.jpg" alt="Description of the image" /></p>
+<p><img src="/pictures/DiceTray5.jpg" />
+<img src="/pictures/DiceTray6.jpg" /></p>
 
-<p>The lid fit a bit too tightly for my liking, but I was running out of time to get it done. I left it as is because over time the material will wear and it’ll get looser. I’m pretty happy with how it turned out. She didn’t realize I had made it myself until I had said as much, so that was a big win for my confidence in my craftsmanship.</p>]]></content><author><name></name></author><category term="personal" /><category term="projects" /><summary type="html"><![CDATA[For Christmas, my friend wanted a new dice tray for ttrpgs. Since I have made one for myself out of wooden paint sticks that I upholstered with felt and vinyl a few years back, I decided to make her one instead of buying one, but this time I would be using my 3D printer to make the body.]]></summary></entry><entry><title type="html">Whyte Weather</title><link href="http://localhost:4000/personal/projects/2025/11/04/whyte-weather.html" rel="alternate" type="text/html" title="Whyte Weather" /><published>2025-11-04T00:00:00-08:00</published><updated>2025-11-04T00:00:00-08:00</updated><id>http://localhost:4000/personal/projects/2025/11/04/whyte-weather</id><content type="html" xml:base="http://localhost:4000/personal/projects/2025/11/04/whyte-weather.html"><![CDATA[<h3><a href="https://alec0915.pythonanywhere.com/" target="_blank">Check out my weather app here! </a></h3>
+<p>The lid fit a bit too tightly for my liking, but I was running out of time to get it done. I left it as is because over time the material will wear, and it’ll get looser. I’m pretty happy with how it turned out. She didn’t realize I had made it myself until I had said as much, so that was a big win for my confidence in my craftsmanship.</p>]]></content><author><name></name></author><category term="personal" /><category term="projects" /><summary type="html"><![CDATA[For Christmas, my friend wanted a new dice tray for ttrpgs. Since I have made one for myself out of wooden paint sticks that I upholstered with felt and vinyl a few years back, I decided to make her one instead of buying one, but this time I would be using my 3D printer to make the body.]]></summary></entry><entry><title type="html">Whyte Weather</title><link href="http://localhost:4000/personal/projects/2025/11/04/whyte-weather.html" rel="alternate" type="text/html" title="Whyte Weather" /><published>2025-11-04T00:00:00-08:00</published><updated>2025-11-04T00:00:00-08:00</updated><id>http://localhost:4000/personal/projects/2025/11/04/whyte-weather</id><content type="html" xml:base="http://localhost:4000/personal/projects/2025/11/04/whyte-weather.html"><![CDATA[<h3><a href="https://alec0915.pythonanywhere.com/" target="_blank">Check out my weather app here! </a></h3>
 <p>This was my first proper project I did by myself outside of school. I usually struggle to find something I find interesting to work on, but this got me engaged to the point where I wanted to finish it. I worked on it off and on in my free time between work and d&amp;d. I’m still shocked that it both works and is just live on the internet now.</p>
 
 <p>I had to learn how Flask worked to get this from a python script making API calls to a proper backend that feeds data to HTML files. I really like how Flask can not only create dynamic content on pages, but it can also create dynamic URLs for pages. It’s a cool idea to have template HTML files that act as a base structure that I fill with data depending on user input.</p>
