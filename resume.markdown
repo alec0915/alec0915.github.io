@@ -13,7 +13,8 @@ B.S. in Computer Science from the University of California, Irvine
 
 <ul>
     <li>GPA: 3.432 </li>
-    <li>Subjects Studied: Boolean Algebra and Logic, Data Structure Implementation and Analysis, Design and Analysis of Algorithms, Digital Logic Design, Embedded Software, Adversarial Machine Learning</li>
+    <li>Subjects Studied: Data Structure Implementation and Analysis, Boolean Algebra and Logic, Digital Logic Design, Embedded Software</li>
+    
 </ul>
 
 <strong>SKILLS</strong>
@@ -22,18 +23,15 @@ B.S. in Computer Science from the University of California, Irvine
     <ul>
         <li>My most used programming language at UCI and now. I did most of my school projects in Python, so I feel most comfortable working with it.</li>
     </ul>
-<li>Flask</li>
-    <ul>
-        <li>I started using Flask in November 2025. My first web app utilized Flask, and I hope to use it more to learn its intricacies.</li>
-    </ul>
 </ul>
+    
 <strong>TECHNICAL PROJECT</strong>
 
 <a href="https://alec0915.pythonanywhere.com/" target="_blank">Weather Web App (Python/Flask, HTML, CSS)</a>
 <ul>
-<li>Developed and deployed a full-stack weather application using Python with Flask, focused on integrating and parsing external data from the WeatherAPI.com service to display dynamic content.</li>
+<li>Developed and deployed a basic full-stack weather application using Python with Flask, focused on integrating and parsing external data from the WeatherAPI.com service to display dynamic content.</li>
 
-<li>Utilized the Flask backend to successfully handle user input and process JSON data, delivering current conditions, a 24-hour hourly forecast, and a 3-day forecast based on a user-submitted location.</li>
+<li>Utilized Flask in the backend to successfully handle user input and process JSON data, delivering current conditions, a 24-hour hourly forecast, and a 3-day forecast based on a user-submitted location.</li>
 
 <li>Established a foundation in backend-to-frontend communication by implementing Flask routing to dynamically render HTML pages, presenting the information in a user-friendly interface.</li>
 </ul>

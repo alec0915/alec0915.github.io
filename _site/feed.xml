@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-22T21:41:14-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alec Whyte</title><subtitle>My name is Alec Whyte. I&apos;m an aspiring software developer. I studied Computer Science at the University of California, Irvine. I love coding, gaming, music, and  crafts. This is my personal portfolio site. Feel free to reach out to me via email or connect with me on LinkedIn!</subtitle><entry><title type="html">3D Printed Guitar Hero Controller</title><link href="http://localhost:4000/personal/projects/2026/02/22/poly-guitar.html" rel="alternate" type="text/html" title="3D Printed Guitar Hero Controller" /><published>2026-02-22T00:00:00-08:00</published><updated>2026-02-22T00:00:00-08:00</updated><id>http://localhost:4000/personal/projects/2026/02/22/poly-guitar</id><content type="html" xml:base="http://localhost:4000/personal/projects/2026/02/22/poly-guitar.html"><![CDATA[<p>Credit to Josh Designs (@JoshDesigns_295335 on Printables) for the stls and build guide!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-08-02T16:49:35-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alec Whyte</title><subtitle>My name is Alec Whyte. I&apos;m an aspiring software developer. I studied Computer Science at the University of California, Irvine. I love coding, gaming, music, and  crafts. This is my personal portfolio site. Feel free to reach out to me via email or connect with me on LinkedIn!</subtitle><entry><title type="html">Dungeon Toxicrawlogy</title><link href="http://localhost:4000/personal/projects/2026/07/06/dungeon-toxicrawlogy.html" rel="alternate" type="text/html" title="Dungeon Toxicrawlogy" /><published>2026-07-06T00:00:00-07:00</published><updated>2026-07-06T00:00:00-07:00</updated><id>http://localhost:4000/personal/projects/2026/07/06/dungeon-toxicrawlogy</id><content type="html" xml:base="http://localhost:4000/personal/projects/2026/07/06/dungeon-toxicrawlogy.html"><![CDATA[<p><a href="https://alec0915.itch.io/dungeon-toxicrawlogy" target="_blank"><img src="/pictures/dt.png" /></a></p>
+
+<p>This is the first game I’ve ever published. I worked on it for a game jam with a friend. I coded the game, and she sourced the visual and audio assets. It’s free to play.</p>
+
+<p>We used GameMaker Studio to build it. GML was pretty easy for me to grasp because it still follows the same logic that other programming languages have.</p>
+
+<p>The game is a 2D dungeon crawler where the player’s goal is to find the cure for the poison that is killing the player. Delve through three levels to finally cure yourself. The game is a bit difficult with the amount of steps the player can take; since it’s so short, it’s intended to be played several times to memorize layouts and pick the best path.</p>
+
+<p><img src="/pictures/dt4.png" /></p>
+
+<p>The bottom bar is the player’s Toxic Meter; it fills up with each step, up to 100.</p>
+
+<p><img src="/pictures/dt5.png" /></p>
+
+<p>As the bar fills, the screen will slowly begin to turn purple. A game object modifies the Colourize effect layer with a liner interpolation based on the player’s steps and how close that is to 100.</p>
+
+<p><img src="/pictures/dt6.png" /></p>
+
+<p>Eventually purple is the only color the player can see.</p>
+
+<p>It was a great opportunity to personally design a few mazes.</p>
+
+<p><img src="/pictures/dt1.png" /></p>
+
+<p>I wanted this first level to be a simple and more open maze to navigate. While the pathways may be one block wide, they openings in the rooms are vast and much bigger than any room in the other two levels. I also added a few extra healing items to this stage to try and help make it through.</p>
+
+<p><img src="/pictures/dt2.png" /></p>
+
+<p>This second level was based on the idea of picking a path and sticking to it. It has very long hallways, so if the player turns back, they probably won’t make it. The final corridor before the exit stairs is somewhere around 95 steps. There is a full heal just before it, but, if the player hesitates at all, their odds of surviving to floor 3 drop.</p>
+
+<p><img src="/pictures/dt3.png" /></p>
+
+<p>This final maze has long false paths, and one particularly long dead end near where the cure is. This floor has the least amount of healing items, so, with enough mistakes, the player might not make it to the end.</p>]]></content><author><name></name></author><category term="personal" /><category term="projects" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">3D Printed Guitar Hero Controller</title><link href="http://localhost:4000/personal/projects/2026/02/22/poly-guitar.html" rel="alternate" type="text/html" title="3D Printed Guitar Hero Controller" /><published>2026-02-22T00:00:00-08:00</published><updated>2026-02-22T00:00:00-08:00</updated><id>http://localhost:4000/personal/projects/2026/02/22/poly-guitar</id><content type="html" xml:base="http://localhost:4000/personal/projects/2026/02/22/poly-guitar.html"><![CDATA[<p>Credit to Josh Designs (@JoshDesigns_295335 on Printables) for the stls and build guide!</p>
 <p><a href="https://www.printables.com/model/227781-poly-clone-hero-controller" target="_blank">Link to the project on Printables </a><p>
 
 
