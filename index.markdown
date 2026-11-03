@@ -6,7 +6,7 @@ layout: page
 ---
 <h1>Welcome to my site!</h1>
 
-My name is Alec Whyte. I'm 26 years old, I'm from Southern California, and I'm an aspiring software developer. I'm also a gamer, a craftsman, and a musician.
+My name is Alec Whyte. I'm 27 years old, I'm from Southern California, and I'm an aspiring software developer. I'm also a gamer, a craftsman, and a musician.
 
 I studied Computer Science for three of my five years at the University of California, Irvine. I fell in love with coding my senior year of high school; my AP Computer Science teacher was incredibly engaging, and when I started to make words I typed appear on the screen or functions I made execute, I was hooked on this computer wizardry.
 
